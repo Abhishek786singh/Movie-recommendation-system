@@ -1,4 +1,6 @@
 
+![r_1](images/r_1.png)
+
 # Recommender System-
 
 + Recommender System is a system that seeks to predict or filter preferences according to the user’s choices. 
