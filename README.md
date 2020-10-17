@@ -1,5 +1,5 @@
 
-![r_1](images/r_1.png)
+![r1](images/r1.png)
 
 # Recommender System-
 
