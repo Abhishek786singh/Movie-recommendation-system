@@ -24,4 +24,6 @@ This model is then used to predict items (or ratings for items) that user may ha
   
 # Code-
 ![a_1](images/a_1.png)
-![a_2](images/a_1.png)
+![a_2](images/a_2.png)
+
+![a_3](images/a_3.png)
