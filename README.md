@@ -25,6 +25,8 @@ This model is then used to predict items (or ratings for items) that user may ha
  # Tools 
  
  + Python
+ + Juypter Notebook
+ + Pandas
   
 # Code-
 ![a_1](images/a_1.png)
