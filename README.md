@@ -33,3 +33,6 @@ This model is then used to predict items (or ratings for items) that user may ha
 ![a_2](images/a_2.png)
 
 ![a_3](images/a_3.png)
+
+
+![a_4](images/a_4.png)
