@@ -22,6 +22,10 @@ This model is then used to predict items (or ratings for items) that user may ha
   are totally based on a description of the item and a profile of the user’s preferences. It recommends items 
   based on user’s past preferences.
   
+ # Tools 
+ 
+ + Python
+  
 # Code-
 ![a_1](images/a_1.png)
 ![a_2](images/a_2.png)
