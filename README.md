@@ -43,3 +43,6 @@ This model is then used to predict items (or ratings for items) that user may ha
 
 
 ![a_4](images/a_4.png)
+
+
+# Link-https://www.linkedin.com/in/abhishek-singh-771291170/
