@@ -46,3 +46,5 @@ This model is then used to predict items (or ratings for items) that user may ha
 
 
 # Link-https://www.linkedin.com/in/abhishek-singh-771291170/
+
+# Thanks.....
